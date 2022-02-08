@@ -1,0 +1,10 @@
+c2db9c8b15db9deb5bb675b3e875eecf *DESCRIPTION
+aa904fd2be79312c3b98ec887db7180e *LICENSE
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+8f175188e50b616047da2cef62d52617 *R/crypto_data_daily.R
+e90af0c214a9fce5042976e172a02658 *R/crypto_data_hourly.R
+b5e5b6c14d3d7adf2f3b548e3d8fc56a *README.md
+7480c39bbf481e27efb7ca82aba413b2 *data/crypto_data_daily.rda
+541493b37942d248a354421441dd25f0 *data/crypto_data_hourly.rda
+b7ffcbeff48a7bc9a86a2e8d81a8bbec *man/crypto_data_daily.Rd
+9dd2ab7dc7ac7a4222eaeaa4f2a4bb2c *man/crypto_data_hourly.Rd
